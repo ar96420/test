@@ -41,5 +41,11 @@
     "url":"",
     "episode": "2",
     "image_url": "https://cdn.myanimelist.net/images/anime/1810/105977l.jpg"
+  },
+    {
+    "title": "Daisuki na Haha 2",
+    "url": "https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/nfA4vlh2hcl1r0wb5ft0kz70rqZhjz6Arwwlq0j2f13532j8jAbc7.m3u8",
+    "episode": "2",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1559/103768l.jpg"
   }
 ]
