@@ -64,5 +64,17 @@
     "url": "https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/dgblp5At98A4w02p0n6p1yxdv2Z4dl37prp114mr3jbm6xArpchy1.m3u8",
     "episode": "1",
     "image_url": "https://cdn.myanimelist.net/images/anime/1559/103768l.jpg"
+  },
+  {
+    "title": "Kimetsu no Yaiba: Yuukaku-hen",
+    "url": "https://sv-03.mp4.sh/d/18ef9fe4c8bc.mp4?st=K8oxL2o5DAcKKj-jU70EAg&e=1640039870&z=subbed",
+    "episode": "3",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-Oa6NT07c5KOn.jpg"
+  },
+   {
+    "title": "Mieruko-chan",
+    "url": "https://www13.gogoplay.in/www03/0T5D-6rvXwue0O2U8PlC9Q/1640015934/91e56c06b50cad0c37d392efb0c10ef7/ep.11.1639320565.1080.m3u8",
+    "episode": "12",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131083-fMWFyOFgp6vb.png"
   }
 ]
