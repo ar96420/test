@@ -1,10 +1,12 @@
-[
-  {
-    "title": "enen no shouboutai",
-    "alt": "Fire Force",
-  },
-    {
-    "title": "Sentai Daishikkaku",
-    "alt": "Ranger Reject",
-  }
-]
+{
+   "altnames":[
+      {
+         "title":"enen no shouboutai",
+         "alt":"Fire Force"
+      },
+      {
+         "title":"Sentai Daishikkaku",
+         "alt":"Ranger Reject"
+      }
+   ]
+}
